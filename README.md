@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://github.com/ggoodwin/snippme-api/blob/images/code.png" alt="SnippMe"></a>
+ <img width=200px height=200px src="https://github.com/ggoodwin/snippme-api/blob/main/images/code.png" alt="SnippMe"></a>
 </p>
 
 <h3 align="center">SnippMe API</h3>
